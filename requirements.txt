@@ -1,0 +1,17 @@
+# python3.6
+
+# django
+django==3.0.4
+django-cors-headers==3.2.1
+djangorestframework==3.10.2
+
+# path
+environs==7.3.1
+
+requests==2.23.0
+pycryptodome==3.9.2
+gunicorn==19.9.0
+gevent==1.4.0
+
+# mysql
+mysqlclient==1.4.6

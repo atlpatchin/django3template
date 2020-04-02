@@ -1,0 +1,12 @@
+# coding: utf-8
+
+"""公钥"""
+
+# api接口安全公钥
+api_key = """-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3OdMCnc6WCnq+dIVd8Le
+ea7aHta00zjXk1KKb9DjQjZ7Hovl99pJSYbToko0WKaF/8CuvH86TM2j1Hd2wzyX
+d+lHCQmyDyFqTZX4NRJ8JgFXkNDXliaVQU/LEkb4MkGNK78CuUGrA2xmqRYPMO3J
+UOdS4sTO0wDWX2Aqwzgf0R/wEQGWWTKLFk2cKVrYLRrCyf0AynwdLje43qs8fWgp
+9XVSeDiG3e1AuHDnQCci0mAUN6n4ZnY7sPR/8QyAprpPMuHtmh+CU3tqtgb3qww3
+-----END PUBLIC KEY-----"""
