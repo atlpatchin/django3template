@@ -1,7 +1,7 @@
 # python3.6
 
 # django
-django==3.0.4
+django==3.0.7
 django-cors-headers==3.2.1
 djangorestframework==3.10.2
 
